@@ -8,8 +8,8 @@
 
 #
 
-<p align="center">Engenheira de Software formada em Ciência da Computação pela Universidade Federal do Amazonas. Atualmente trabalho na <a href="https://www.jusbrasil.com.br/iniciar-pesquisa/"> Jusbrasil</a> desempenhando o papel de FullStack, com foco em NextJS e GraphQL.
-Sigo constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar novas soluções.
+<p align="center">Software Engineer with a degree in Computer Science from the Federal University of Amazonas. Currently working at <a href="https://www.jusbrasil.com.br/iniciar-pesquisa/"> Jusbrasil</a> as a Full-Stack Developer, focusing on Next.js and GraphQL. 
+I’m constantly updating my skills and seeking new challenges in the tech field. Passionate about learning and applying knowledge to create innovative solutions.
   
 #
 
